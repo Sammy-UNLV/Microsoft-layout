@@ -1,0 +1,10 @@
+span {
+    display: inline-block;
+}
+body {
+    text-align: center;
+}
+#blockImage{
+    width: 120px;
+    height:auto
+}
